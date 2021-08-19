@@ -1,0 +1,17 @@
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/bin/Debug/net5.0/ProEventos.Application.deps.json
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/bin/Debug/net5.0/ProEventos.Application.dll
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/bin/Debug/net5.0/ref/ProEventos.Application.dll
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/bin/Debug/net5.0/ProEventos.Application.pdb
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/bin/Debug/net5.0/ProEventos.Domain.dll
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/bin/Debug/net5.0/ProEventos.Persistence.dll
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/bin/Debug/net5.0/ProEventos.Domain.pdb
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/bin/Debug/net5.0/ProEventos.Persistence.pdb
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.csproj.AssemblyReference.cache
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.AssemblyInfoInputs.cache
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.AssemblyInfo.cs
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.csproj.CoreCompileInputs.cache
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.csproj.CopyComplete
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.dll
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/obj/Debug/net5.0/ref/ProEventos.Application.dll
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.pdb

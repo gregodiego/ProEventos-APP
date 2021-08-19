@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Persistence/ProEventos.Persistence.csproj": {}
+  },
+  "projects": {
+    "/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/ProEventos.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/ProEventos.Domain.csproj",
+        "projectName": "ProEventos.Domain",
+        "projectPath": "/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/ProEventos.Domain.csproj",
+        "packagesPath": "/Users/diego/.nuget/packages/",
+        "outputPath": "/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diego/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Persistence/ProEventos.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Persistence/ProEventos.Persistence.csproj",
+        "projectName": "ProEventos.Persistence",
+        "projectPath": "/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Persistence/ProEventos.Persistence.csproj",
+        "packagesPath": "/Users/diego/.nuget/packages/",
+        "outputPath": "/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diego/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/ProEventos.Domain.csproj": {
+                "projectPath": "/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/ProEventos.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

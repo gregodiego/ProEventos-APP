@@ -1,0 +1,12 @@
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/bin/Debug/net5.0/ProEventos.Domain.deps.json
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/bin/Debug/net5.0/ProEventos.Domain.dll
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/bin/Debug/net5.0/ref/ProEventos.Domain.dll
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/bin/Debug/net5.0/ProEventos.Domain.pdb
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.csproj.AssemblyReference.cache
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.AssemblyInfoInputs.cache
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.AssemblyInfo.cs
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.csproj.CoreCompileInputs.cache
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.dll
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/obj/Debug/net5.0/ref/ProEventos.Domain.dll
+/Users/diego/Documents/Projeto Angular NET 5 - ProEventos/BackEnd/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.pdb
